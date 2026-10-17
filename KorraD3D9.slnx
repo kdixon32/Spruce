@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KorraD3D9.vcxproj" Id="347e9061-2315-41fe-9ec4-7b46fcd127c7" />
+</Solution>
